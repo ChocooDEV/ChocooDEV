@@ -3,10 +3,9 @@
 Hey there 👋
 
 ### ℹ️ About me 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>
-  Hi 👋🏻
+<b> Hi 👋🏻
   I’m Chocoo, a Swiss 1:1 Photographer 📸, Computer Science Engineer 👨🏻‍💻 and NFT enjoyer ! 
-  </b></em>
+ </b>
 
 ### 📌 Pinned Repositories
 <a href="https://github.com/ChocooDEV/solana-todo-app">
