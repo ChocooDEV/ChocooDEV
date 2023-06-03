@@ -1,0 +1,14 @@
+[![Envoy_'s GitHub Banner](./assets/banner.png)]([https://jeromevdev.github.io/my-portfolio/](https://twitter.com/chocoo_web3))
+
+Hey there 👋
+
+### ℹ️ About me 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>
+  Hi 👋🏻 <\br>
+  I’m Chocoo, a Swiss 1:1 Photographer 📸, Computer Science Engineer 👨🏻‍💻 and NFT enjoyer ! 
+  </b></em>
+
+### 📌 Pinned Repositories
+<a href="https://github.com/ChocooDEV/solana-todo-app">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChocooDEV&repo=solana-todo-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
