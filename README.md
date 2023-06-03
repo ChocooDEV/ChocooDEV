@@ -1,4 +1,4 @@
-[![Envoy_'s GitHub Banner](./assets/banner.png)]([https://jeromevdev.github.io/my-portfolio/](https://twitter.com/chocoo_web3))
+[![Envoy_'s GitHub Banner](./banner.png)]([https://twitter.com/chocoo_web3](https://twitter.com/chocoo_web3))
 
 Hey there 👋
 
