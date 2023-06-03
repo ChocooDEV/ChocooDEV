@@ -3,7 +3,7 @@
 Hey there 👋
 
 ### ℹ️ About me 
-<b> <p> Hi 👋🏻  
+<b> <p>
   I’m Chocoo, a Swiss 1:1 Photographer 📸, Computer Science Engineer 👨🏻‍💻 and NFT enjoyer ! 
   </p> </b>
 
