@@ -4,7 +4,7 @@ Hey there 👋
 
 ### ℹ️ About me 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>
-  Hi 👋🏻 <\br>
+  Hi 👋🏻
   I’m Chocoo, a Swiss 1:1 Photographer 📸, Computer Science Engineer 👨🏻‍💻 and NFT enjoyer ! 
   </b></em>
 
