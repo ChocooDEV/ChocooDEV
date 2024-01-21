@@ -8,6 +8,6 @@ Hey there 👋
   </p> </b>
 
 ### 📌 Pinned Repositories
-<a href="https://github.com/ChocooDEV/solana-todo-app">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChocooDEV&repo=solana-todo-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="[https://github.com/ChocooDEV/solana-todo-app](https://github.com/ChocooDEV/cnft_app)">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChocooDEV&repo=cnft_app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
