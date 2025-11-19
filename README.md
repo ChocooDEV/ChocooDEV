@@ -4,7 +4,7 @@ Hey there 👋
 
 ### ℹ️ About me 
 <b> <p>
-  I’m Chocoo, a Swiss Computer Science Engineer 👨🏻‍💻, amateur Photographer 📸,  and web3 enjoyer ! 
+  I’m Chocoo, a Swiss Computer Science Engineer 👨🏻‍💻, amateur Photographer 📸,  and web3 enjoyer !  
   </p> </b>
 
 ### 📌 Pinned Repositories
