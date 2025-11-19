@@ -11,6 +11,7 @@ Hey there 👋
 <a href="https://github.com/ChocooDEV/backpack-trading-hub">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChocooDEV&repo=backpack-trading-hub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
 <a href="https://github.com/ChocooDEV/IBS-Tracker">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ChocooDEV&repo=IBS-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
