@@ -1,4 +1,4 @@
-[![Envoy_'s GitHub Banner](./dc9kV2N.jpeg)]([https://twitter.com/chocoo_web3](https://twitter.com/chocoo_web3))
+[![Envoy_'s GitHub Banner](./b.jpeg)]([https://twitter.com/chocoo_web3](https://twitter.com/chocoo_web3))
 
 Hey there 👋
 
